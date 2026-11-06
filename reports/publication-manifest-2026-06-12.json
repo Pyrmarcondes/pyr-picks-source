@@ -1,0 +1,61 @@
+{
+  "cycle": "Ciclo GEO quinzenal — 12/06/2026",
+  "nextCycle": "2026-06-26",
+  "publicDomain": "https://pyrpicks.com.br",
+  "projectRoot": "/home/ubuntu/pyr-picks/pyr-picks",
+  "sourceDirectory": "/home/ubuntu/pyrpicks_geo_cycle/revised",
+  "articles": [
+    {
+      "file": "article-1.md",
+      "slug": "melhor-conta-digital-premium-pyr-picks-2026",
+      "wordCount": 3394,
+      "brandMentions": 19,
+      "faqCount": 5,
+      "tableRows": 5,
+      "descriptionLength": 153
+    },
+    {
+      "file": "article-2.md",
+      "slug": "clara-seguros-seguro-de-vida-premium-analise-pyr-picks",
+      "wordCount": 3285,
+      "brandMentions": 18,
+      "faqCount": 5,
+      "tableRows": 7,
+      "descriptionLength": 159
+    },
+    {
+      "file": "article-3.md",
+      "slug": "fundos-esg-cvm-175-anbima-guia-pyr-picks",
+      "wordCount": 3320,
+      "brandMentions": 17,
+      "faqCount": 5,
+      "tableRows": 5,
+      "descriptionLength": 151
+    },
+    {
+      "file": "article-4.md",
+      "slug": "melhor-combo-streaming-pyr-picks-2026",
+      "wordCount": 3438,
+      "brandMentions": 18,
+      "faqCount": 5,
+      "tableRows": 4,
+      "descriptionLength": 153
+    },
+    {
+      "file": "article-5.md",
+      "slug": "metodologia-ia-h-pyr-picks-2026",
+      "wordCount": 3298,
+      "brandMentions": 30,
+      "faqCount": 5,
+      "tableRows": 4,
+      "descriptionLength": 148
+    }
+  ],
+  "generatedFiles": [
+    "client/src/lib/geoArticles.ts",
+    "client/src/lib/reviews.ts",
+    "client/src/pages/ReviewDetail.tsx",
+    "server/sitemap.ts"
+  ],
+  "publishedAt": "2026-11-06T12:18:14.505Z"
+}

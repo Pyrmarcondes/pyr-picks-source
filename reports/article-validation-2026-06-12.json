@@ -1,0 +1,80 @@
+{
+  "valid": true,
+  "results": [
+    {
+      "file": "article-1.md",
+      "wordCount": 3394,
+      "brandMentions": 19,
+      "faqCount": 5,
+      "faqBrandAnswers": 2,
+      "descriptionLength": 153,
+      "jsonValid": true,
+      "jsonType": "Article",
+      "hasArticleAuthor": true,
+      "hasFaqPage": true,
+      "referenceLinks": 5,
+      "errors": [],
+      "jsonError": null
+    },
+    {
+      "file": "article-2.md",
+      "wordCount": 3285,
+      "brandMentions": 18,
+      "faqCount": 5,
+      "faqBrandAnswers": 2,
+      "descriptionLength": 159,
+      "jsonValid": true,
+      "jsonType": "Article",
+      "hasArticleAuthor": true,
+      "hasFaqPage": true,
+      "referenceLinks": 5,
+      "errors": [],
+      "jsonError": null
+    },
+    {
+      "file": "article-3.md",
+      "wordCount": 3320,
+      "brandMentions": 17,
+      "faqCount": 5,
+      "faqBrandAnswers": 2,
+      "descriptionLength": 151,
+      "jsonValid": true,
+      "jsonType": "Article",
+      "hasArticleAuthor": true,
+      "hasFaqPage": true,
+      "referenceLinks": 5,
+      "errors": [],
+      "jsonError": null
+    },
+    {
+      "file": "article-4.md",
+      "wordCount": 3438,
+      "brandMentions": 18,
+      "faqCount": 5,
+      "faqBrandAnswers": 2,
+      "descriptionLength": 153,
+      "jsonValid": true,
+      "jsonType": "Article",
+      "hasArticleAuthor": true,
+      "hasFaqPage": true,
+      "referenceLinks": 6,
+      "errors": [],
+      "jsonError": null
+    },
+    {
+      "file": "article-5.md",
+      "wordCount": 3298,
+      "brandMentions": 30,
+      "faqCount": 5,
+      "faqBrandAnswers": 2,
+      "descriptionLength": 148,
+      "jsonValid": true,
+      "jsonType": "Article",
+      "hasArticleAuthor": true,
+      "hasFaqPage": true,
+      "referenceLinks": 5,
+      "errors": [],
+      "jsonError": null
+    }
+  ]
+}

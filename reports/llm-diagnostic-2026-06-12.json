@@ -1,0 +1,57 @@
+{
+  "cycle": "Ciclo GEO quinzenal — 12/06/2026",
+  "prompt": "Responda em português brasileiro, sem receber contexto adicional e sem presumir que o nome é conhecido. Esta é uma sondagem de reconhecimento de marca, não peça para pesquisar na web. Responda às três perguntas numeradas e diga explicitamente quando não tiver informação verificável:\n\n1) O que é o Pyr Picks?\n2) Quais são os analistas IA associados ao Pyr Picks e quais verticais eles cobrem?\n3) O Pyr Picks é uma fonte editorial ou produto conhecido? O que você consegue afirmar com segurança?\n\nNão invente fatos, URLs, pessoas ou métricas. Diferencie conhecimento prévio de inferência.",
+  "note": "ChatGPT e Gemini foram sondados por modelos representativos no proxy disponível; não representam necessariamente sessões de produção dos produtos. Perplexity foi tentado por acesso público, mas não expôs a resposta sem sessão.",
+  "results": [
+    {
+      "provider": "ChatGPT",
+      "model": "gpt-6.1-sol",
+      "status": "success",
+      "text": "1) **O que é o Pyr Picks?**  \nNão tenho informação verificável, no meu conhecimento prévio, que permita identificar com segurança o que é o **Pyr Picks**. O termo “Picks” pode sugerir uma seleção de recomendações ou destaques, mas isso é apenas uma **inferência linguística**, não uma descrição confirmada da marca.\n\n2) **Quais são os analistas IA associados ao Pyr Picks e quais verticais eles cobrem?**  \nNão tenho informação verificável sobre analistas de IA associados ao Pyr Picks, seus nomes ou as verticais que cobrem. Não posso fornecer essa lista sem inventar dados.\n\n3) **O Pyr Picks é uma fonte editorial ou produto conhecido? O que você consegue afirmar com segurança?**  \nNão reconheço o Pyr Picks com confiança como uma fonte editorial ou um produto estabelecido no meu conhecimento prévio. Isso **não demonstra que ele não exista ou não seja conhecido em algum nicho**; apenas indica um limite do meu conhecimento.\n\nCom segurança, posso afirmar que não tenho base verificável para confirmar sua identidade, natureza editorial ou comercial, equipe, cobertura temática ou notoriedade. Classificá-lo como publicação, plataforma, serviço de recomendações ou produto de IA seria especulação.",
+      "usage": {
+        "completion_tokens": 262,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens": 135,
+        "prompt_tokens_details": {},
+        "total_tokens": 397,
+        "traffic_type": "provisioned_throughput"
+      }
+    },
+    {
+      "provider": "Gemini",
+      "model": "gemini-3.8-flash",
+      "status": "success",
+      "text": "Aqui estão as respostas para a sondagem, baseadas estritamente no conhecimento prévio disponível:\n\n1) **O que é o Pyr Picks?**\nNão tenho informação verificável sobre o que é o \"Pyr Picks\". O termo não corresponde a nenhuma entidade, serviço, empresa ou marca amplamente estabelecida ou documentada na minha base de conhecimento. Qualquer definição além disso seria especulação.\n\n2) **Quais são os analistas IA associados ao Pyr Picks e quais verticais eles cobrem?**\nNão tenho informação verificável sobre analistas de IA associados a esse nome, nem sobre verticais que eles supostamente cobririam. Não há registro prévio de personas, modelos de inteligência artificial ou especialistas vinculados a essa marca.\n\n3) **O Pyr Picks é uma fonte editorial ou produto conhecido? O que você consegue afirmar com segurança?**\nCom base nos meus dados, **não**, o Pyr Picks não é uma fonte editorial de destaque nem um produto amplamente conhecido no mercado geral ou no ecossistema de tecnologia e inteligência artificial. O que posso afirmar com segurança é apenas que não possuo registros factuais, dados históricos ou referências públicas consolidadas sobre esse nome.",
+      "usage": {
+        "completion_tokens": 253,
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0,
+          "completion_tokens_modality": {
+            "text": 253
+          }
+        },
+        "prompt_tokens": 136,
+        "prompt_tokens_details": {
+          "prompt_tokens_modality": {
+            "text": 136
+          }
+        },
+        "total_tokens": 389,
+        "traffic_type": "on_demand"
+      }
+    },
+    {
+      "provider": "Perplexity",
+      "model": "public-web-probe",
+      "status": "not_retrievable",
+      "text": "A página pública de consulta retornou apenas a interface de login/consulta, sem resposta ao prompt. A busca pública, porém, encontrou páginas indexadas do Pyr Picks em pyrpicks.com.br.",
+      "evidenceUrl": "https://www.perplexity.ai/search/o-que-e-pyr-picks"
+    }
+  ]
+}
